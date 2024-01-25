@@ -5,7 +5,7 @@ import json
 import asyncio
 import os
 
-token = "YOUR_TOKEN_HERE"
+token = "MTE4MjYzNTc1NzU2MzgxODAyNA.GMTk4W.9JFfq59q3t1oEeambGxfFy97OKU-tVl7-nBPYI"
 
 bot = commands.Bot(
     command_prefix='$',
